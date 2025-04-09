@@ -57,6 +57,7 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 - Creating AI-powered web tools using **FastAPI + Python**
 - Experimenting with **Rust backends** and CLI tooling
 - Exploring **Web3 protocols** and decentralized systems
+- My GitHub username’s AvinashK47 — because my code... shoots bugs. 💥
 
 ---
 
