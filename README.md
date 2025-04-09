@@ -1,92 +1,92 @@
-<h1 align="center">Hey there 👋, I'm Avinash</h1>
+<h1 align="center">Hey, I'm Avinash 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Dev Animation">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Dev Coding">
 </p>
 
 <p align="center">
-  <b>Backend Engineer | Linux Power User | AI Explorer | FOSS Evangelist</b><br>
-  <i>Living on the edge with Arch & Gentoo, coding fullstack, and tinkering with AI on the side.</i>
+  <b>Backend Wizard 🧙‍♂️ | Linux Overlord 🐧 | AI Explorer 🤖 | Fullstack Hacker 💻</b><br>
+  <i>Living on the bleeding edge for 4+ years with Arch and Gentoo.</i>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🔧 About Me
 
-I'm a backend-focused developer who thrives on clean architecture, optimized systems, and performance-centric workflows. My background ranges from compiling Linux kernels to building AI-integrated web services using fullstack JavaScript and Python. FOSS is in my blood, and I push for developer control, speed, and innovation in every stack I work with.
+I'm a developer who doesn't just code — I **optimize**, **self-host**, **automate**, and sometimes… break things (intentionally, of course 😅).
 
----
-
-## 🧠 What I Know & Use
-
-### 💻 Languages & Frameworks
-- JavaScript / TypeScript – MERN, Express, Next.js, Bun
-- Python – APIs, automation, image processing, AI
-- Rust – For performant backends and CLI tools
-- Java – Core CS concepts and backend logic
-
-### 🧱 Backend / Fullstack Stack
-- Node.js + Express + MongoDB + PostgreSQL
-- Next.js (App Router, Tailwind, ESLint)
-- FastAPI + Flask – async Python backends
-- ORM tools: Mongoose, Prisma
-- Bun runtime for blazing-fast backend development
-
-### 🌐 Frontend Tech
-- React.js + Tailwind CSS + Vite
-- REST APIs, SSR/SSG, and responsive UI
-- ESLint, Prettier, and strict typing with TypeScript
-
-### 🤖 AI, ML, and Image Tools
-- Generative Models (Stable Diffusion, FloorGPT)
-- Gemini API (prompt routing, AI workflows)
-- Prompt Engineering
-- Image Processing – Pillow, OpenCV
-- Multimodal AI integration (text+image workflows)
-
-### 🐳 DevOps & Tools
-- Docker (for containers) and Kubernetes (learning orchestration)
-- GitHub Actions for automation
-- Linux CLI + Shell scripting
-- Bun & Vite – ultra-fast dev tooling
+From compiling my own Linux kernel to integrating multimodal AI with fullstack apps — I love working with tech that's fast, efficient, and fun to debug at 2 AM 🌙.
 
 ---
 
-## 🐧 Linux Enthusiast Mode: MAX
+## ⚙️ Tech Stack (aka my toolbox)
 
-- Daily Driver: **Arch Linux** (with KDE, i3, and AwesomeWM)
-- **Gentoo Linux** user — compiled & customized my own kernel
-- Terminal workflows: `zsh`, `tmux`, `neovim`, `ranger`, `htop`
-- Deeply involved in FOSS, and advocate self-hosting and scripting
+> If it runs in a terminal, I probably use it. If it breaks, I fix it. If it’s slow… I rewrite it in Rust. 🦀
+
+### 💻 Languages & Runtimes
+- **JavaScript / TypeScript**, **Python**, **Rust**, **Java**
+- **Node.js**, **Bun**, **Deno** (testing waters 🌊)
+
+### 🔙 Backend
+- **Express**, **FastAPI**, **Flask**
+- **MongoDB**, **PostgreSQL**, **Prisma**, **Mongoose**
+- **API development**, **Auth**, **Websockets**, **Bun-native server setup**
+
+### 🖼️ AI + Multimodal Integration
+- **Stable Diffusion**, **FloorGPT**, **Gemini API**
+- **Prompt Engineering** & AI model routing
+- **Image Tools**: `Pillow`, `OpenCV`
+- Speech-to-text + text-to-speech + prompt pipelines
+
+### 🎨 Frontend
+- **React.js**, **Next.js (App Router)**, **Vite**
+- **Tailwind CSS v4** — styling made ✨divine✨
+- SSR, dynamic routing, and custom hooks
+
+### 🐧 Linux & DevOps (FLEX MODE 🔥)
+- 4 years of living with **Arch Linux** (btw 😉)
+- **Gentoo Linux** power user — compiled my own kernel like a boss
+- **Zsh**, `neovim`, `tmux`, `htop`, `ranger`, shell scripts galore
+- **Docker**, **Kubernetes** (learning), **GitHub Actions**
+
+---
+
+## 🛠 Current Dev Focus
+
+- Building blazing fast fullstack apps using **Bun + Next.js**
+- Creating AI-powered web tools using **FastAPI + Python**
+- Experimenting with **Rust backends** and CLI tooling
+- Exploring **Web3 protocols** and decentralized systems
 
 ---
 
-## 🌱 What I'm Exploring
+## 🤓 Fun Dev Facts
 
-- Advanced containerization with Docker Compose & Kubernetes
-- AI-based apps using FastAPI + multimodal input pipelines
-- Web3: decentralized protocols, wallet-based auth, smart contract backends
-- Full local AI agents (LLM + audio processing)
-- Rust for fast backend tooling and CLI apps
-
----
-
-## ⚡ Fun Facts
-
-- Built full AI workflows using Python, FastAPI, OpenCV, and generative models
-- Daily Linux user since high school — lived through Arch breakages and loved it
-- Zonal-level football player ⚽ and performance geek
-- FOSS addict. I contribute, self-host, and automate everything
+- Been using FOSS since high school. My motto: “If it’s not open-source, is it even real?”
+- I break Arch on weekends just to fix it again (therapy 🧘).
+- Coffee ☕ + `nvim` + `tmux` = Ultimate productivity ritual.
+- Built AI agents with Gemini + Stable Diffusion + FastAPI — local-first and snappy.
 
 ---
 
-## 📫 Reach Me
+## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinashkushwaha47/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/AvinashK47)
+<p align="left">
+  <a href="https://www.linkedin.com/in/avinashkushwaha47/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/AvinashK47">
+    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
 ---
+
+## 🐍 Bonus Vibes
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Living+on+Linux+%F0%9F%90%A7;Breathing+code+in+Bun%2C+Node%2C+and+Rust...;AI-powered+apps+with+React+and+FastAPI!;Always+learning+%7C+Always+building+%7C+Always+debugging" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Arch+Linux+is+my+daily+driver+%F0%9F%90%A7;Breaking+things+to+learn+them+better+%F0%9F%92%80;AI+models+meet+web+apps+here+%F0%9F%A4%96;Next.js+%2B+Bun+%2B+FastAPI+combo+%F0%9F%9A%80;Building+%7C+Tinkering+%7C+Learning+Nonstop" alt="Typing SVG" />
 </p>
+
+---
+
