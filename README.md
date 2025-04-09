@@ -1,56 +1,73 @@
-# Hi there, I'm Avinash 👋
+# 👋 Hi there, I'm Avinash
 
 ## 🚀 About Me
 
-I'm a passionate backend developer currently learning and building projects with modern web technologies. I have a strong fascination with technology, which led me to explore the depths of Linux, web development, and containerization.
-
-### 👨‍💻 What I'm Learning:
-
-- **Backend Development**: I’m diving deep into the **MERN stack** (MongoDB, Express, React, Node.js), focusing on creating secure, scalable applications.
-- **Linux Power User**: I’m an experienced user of **Arch Linux** (with **KDE** as my desktop environment), and I experiment with various window managers like **i3** and **AwesomeWM**. I’ve even compiled and customized my own kernel using **Gentoo Linux**. 
-- **Containerization and Orchestration**: I’m learning **Docker** and **Kubernetes** to manage and deploy backend services efficiently.
-- **Languages**: Python 🐍, Java ☕, Rust 🦀, JavaScript 💻
+I'm a backend developer and Linux enthusiast building secure, scalable, and high-performance applications. My journey started with a love for FOSS and a curiosity for how systems work under the hood. Now, I’m knee-deep in backend systems, containerization, and AI integrations — all powered by bleeding-edge tools and terminal wizardry.
 
 ---
 
-### 💻 My Tech Stack:
+## 👨‍💻 What I'm Learning & Building:
 
-- **Backend**:  
-  - **Node.js** with Express  
-  - MongoDB  
-  - API development
+### 🖥 Backend Development
+- Deep dive into the **MERN stack** — MongoDB, Express, React, Node.js  
+- Building fullstack apps with **Next.js (TypeScript)**  
+- Exploring **Prisma ORM**, **Mongoose**, and RESTful/GraphQL APIs  
+- Integrating **Bun** as a blazing-fast Node alternative
 
-- **Frontend**:  
-  - React.js  
-  - RESTful services and API integration
+### 🧠 AI & Systems Programming
+- Built local AI tools with **speech-to-text / text-to-speech** using Python  
+- Prototyped AI-driven assistants with **OpenAI/Gemini APIs**  
+- Exploring **Rust** for high-performance, memory-safe backend systems  
 
-- **DevOps & Tools**:  
-  - **Linux** (Arch, Gentoo), shell scripting, system administration  
-  - **Docker** for containerization  
-  - **Git** & **GitHub** for version control
+### 🐧 Linux & Power Usage
+- Daily driver: **Arch Linux** with **KDE**, exploring **i3** & **AwesomeWM**  
+- Kernel compiled & customized via **Gentoo**  
+- Systemd, shell scripting, and deep Linux internals are second nature  
+- Passionate about tiling window managers, workflow automation, and CLI tooling
 
----
+### 🐳 DevOps & Cloud-Native
+- **Docker** for containerized dev workflows  
+- Learning **Kubernetes** for service orchestration  
+- Automating backend deployments with **Bash**, **GitHub Actions**
 
-### 🌱 What I'm Interested In:
-
-- **Web3** technologies: I’m exploring decentralized applications and blockchain-based backends.
-- **Performance & UX**: I’m passionate about writing fast and efficient code, and I believe great user experiences require a holistic approach.
-
----
-
-### 🛠 What I’m Building:
-
-I’m currently working on a variety of projects including backend services, APIs, and deploying containerized applications using Docker. One of my recent projects involves integrating AI models with speech-to-text and text-to-speech software using Python.
+### 💻 Languages I Work With
+- **TypeScript**, **JavaScript**, **Python**, **Rust**, **Java**, **Shell scripting**
 
 ---
 
-### ⚡ Fun Facts:
+## ⚙️ Tech Stack
 
-- I’ve been using **Free and Open-Source Software (FOSS)** since high school, and I contribute to open-source projects.
-- Outside of coding, I’m a zonal-level football player ⚽ and enjoy keeping up with new tech trends.
+### Backend:
+- Node.js, Express.js, Bun, Mongoose, Prisma
+- MongoDB, PostgreSQL
+- REST APIs, GraphQL (learning)
+
+### Frontend:
+- React.js (CRA & Next.js)
+- TailwindCSS v4, TypeScript
+- Server Components & App Router (Next.js 14+)
+
+### DevOps & Tooling:
+- Arch Linux, Gentoo, Zsh
+- Docker, Git, GitHub Actions, systemctl
+- ESLint, Prettier, PostCSS, Tailwind v4 (canary)
 
 ---
 
-### 📫 How to reach me:
+## 🌐 What I'm Exploring Next
+- Web3 backends: Wallet auth, smart contract APIs  
+- AI-powered UIs: LLMs, real-time transcription  
+- Native apps with Tauri (Rust + Web stack)
 
-Feel free to connect with me on LinkedIn https://www.linkedin.com/in/avinashkushwaha47/ .
+---
+
+## ⚡ Fun Facts
+- Been using **FOSS since high school**  
+- Zonal-level football player ⚽  
+- I break things to learn how they work — then I write better code
+
+---
+
+## 📫 Connect With Me:
+📎 [LinkedIn](https://www.linkedin.com/in/avinashkushwaha47/)  
+💻 [GitHub](https://github.com/AvinashK47)  
