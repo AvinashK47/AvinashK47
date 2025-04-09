@@ -1,73 +1,92 @@
-# 👋 Hi there, I'm Avinash
+<h1 align="center">Hey there 👋, I'm Avinash</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Dev Animation">
+</p>
+
+<p align="center">
+  <b>Backend Engineer | Linux Power User | AI Explorer | FOSS Evangelist</b><br>
+  <i>Living on the edge with Arch & Gentoo, coding fullstack, and tinkering with AI on the side.</i>
+</p>
+
+---
 
 ## 🚀 About Me
 
-I'm a backend developer and Linux enthusiast building secure, scalable, and high-performance applications. My journey started with a love for FOSS and a curiosity for how systems work under the hood. Now, I’m knee-deep in backend systems, containerization, and AI integrations — all powered by bleeding-edge tools and terminal wizardry.
+I'm a backend-focused developer who thrives on clean architecture, optimized systems, and performance-centric workflows. My background ranges from compiling Linux kernels to building AI-integrated web services using fullstack JavaScript and Python. FOSS is in my blood, and I push for developer control, speed, and innovation in every stack I work with.
 
 ---
 
-## 👨‍💻 What I'm Learning & Building:
+## 🧠 What I Know & Use
 
-### 🖥 Backend Development
-- Deep dive into the **MERN stack** — MongoDB, Express, React, Node.js  
-- Building fullstack apps with **Next.js (TypeScript)**  
-- Exploring **Prisma ORM**, **Mongoose**, and RESTful/GraphQL APIs  
-- Integrating **Bun** as a blazing-fast Node alternative
+### 💻 Languages & Frameworks
+- JavaScript / TypeScript – MERN, Express, Next.js, Bun
+- Python – APIs, automation, image processing, AI
+- Rust – For performant backends and CLI tools
+- Java – Core CS concepts and backend logic
 
-### 🧠 AI & Systems Programming
-- Built local AI tools with **speech-to-text / text-to-speech** using Python  
-- Prototyped AI-driven assistants with **OpenAI/Gemini APIs**  
-- Exploring **Rust** for high-performance, memory-safe backend systems  
+### 🧱 Backend / Fullstack Stack
+- Node.js + Express + MongoDB + PostgreSQL
+- Next.js (App Router, Tailwind, ESLint)
+- FastAPI + Flask – async Python backends
+- ORM tools: Mongoose, Prisma
+- Bun runtime for blazing-fast backend development
 
-### 🐧 Linux & Power Usage
-- Daily driver: **Arch Linux** with **KDE**, exploring **i3** & **AwesomeWM**  
-- Kernel compiled & customized via **Gentoo**  
-- Systemd, shell scripting, and deep Linux internals are second nature  
-- Passionate about tiling window managers, workflow automation, and CLI tooling
+### 🌐 Frontend Tech
+- React.js + Tailwind CSS + Vite
+- REST APIs, SSR/SSG, and responsive UI
+- ESLint, Prettier, and strict typing with TypeScript
 
-### 🐳 DevOps & Cloud-Native
-- **Docker** for containerized dev workflows  
-- Learning **Kubernetes** for service orchestration  
-- Automating backend deployments with **Bash**, **GitHub Actions**
+### 🤖 AI, ML, and Image Tools
+- Generative Models (Stable Diffusion, FloorGPT)
+- Gemini API (prompt routing, AI workflows)
+- Prompt Engineering
+- Image Processing – Pillow, OpenCV
+- Multimodal AI integration (text+image workflows)
 
-### 💻 Languages I Work With
-- **TypeScript**, **JavaScript**, **Python**, **Rust**, **Java**, **Shell scripting**
-
----
-
-## ⚙️ Tech Stack
-
-### Backend:
-- Node.js, Express.js, Bun, Mongoose, Prisma
-- MongoDB, PostgreSQL
-- REST APIs, GraphQL (learning)
-
-### Frontend:
-- React.js (CRA & Next.js)
-- TailwindCSS v4, TypeScript
-- Server Components & App Router (Next.js 14+)
-
-### DevOps & Tooling:
-- Arch Linux, Gentoo, Zsh
-- Docker, Git, GitHub Actions, systemctl
-- ESLint, Prettier, PostCSS, Tailwind v4 (canary)
+### 🐳 DevOps & Tools
+- Docker (for containers) and Kubernetes (learning orchestration)
+- GitHub Actions for automation
+- Linux CLI + Shell scripting
+- Bun & Vite – ultra-fast dev tooling
 
 ---
 
-## 🌐 What I'm Exploring Next
-- Web3 backends: Wallet auth, smart contract APIs  
-- AI-powered UIs: LLMs, real-time transcription  
-- Native apps with Tauri (Rust + Web stack)
+## 🐧 Linux Enthusiast Mode: MAX
+
+- Daily Driver: **Arch Linux** (with KDE, i3, and AwesomeWM)
+- **Gentoo Linux** user — compiled & customized my own kernel
+- Terminal workflows: `zsh`, `tmux`, `neovim`, `ranger`, `htop`
+- Deeply involved in FOSS, and advocate self-hosting and scripting
+
+---
+
+## 🌱 What I'm Exploring
+
+- Advanced containerization with Docker Compose & Kubernetes
+- AI-based apps using FastAPI + multimodal input pipelines
+- Web3: decentralized protocols, wallet-based auth, smart contract backends
+- Full local AI agents (LLM + audio processing)
+- Rust for fast backend tooling and CLI apps
 
 ---
 
 ## ⚡ Fun Facts
-- Been using **FOSS since high school**  
-- Zonal-level football player ⚽  
-- I break things to learn how they work — then I write better code
+
+- Built full AI workflows using Python, FastAPI, OpenCV, and generative models
+- Daily Linux user since high school — lived through Arch breakages and loved it
+- Zonal-level football player ⚽ and performance geek
+- FOSS addict. I contribute, self-host, and automate everything
 
 ---
 
-## 📫 Connect With Me:
-📎 [LinkedIn](https://www.linkedin.com/in/avinashkushwaha47/)  
-💻 [GitHub](https://github.com/AvinashK47)  
+## 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/avinashkushwaha47/)
+[![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Living+on+Linux+%F0%9F%90%A7;Breathing+code+in+Bun%2C+Node%2C+and+Rust...;AI-powered+apps+with+React+and+FastAPI!;Always+learning+%7C+Always+building+%7C+Always+debugging" alt="Typing SVG" />
+</p>
