@@ -33,7 +33,7 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 - **API development**, **Auth**, **Websockets**, **Bun-native server setup**
 
 ### 🖼️ AI + Multimodal Integration
-- **Stable Diffusion**, **FloorGPT**, **Gemini API**
+- **Stable Diffusion**, **DALL-E**, **Gemini API**
 - **Prompt Engineering** & AI model routing
 - **Image Tools**: `Pillow`, `OpenCV`
 - Speech-to-text + text-to-speech + prompt pipelines
