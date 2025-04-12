@@ -21,7 +21,7 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 
 ## ⚙️ Tech Stack (aka my toolbox)
 
-> If it runs in a terminal, I probably use it. If it breaks, I fix it. If it’s slow… I rewrite it in Rust. 🦀
+> If it runs in a terminal, I probably use it. If it breaks, I fix it.
 
 ### 💻 Languages & Runtimes
 - **JavaScript / TypeScript**, **Python**, **Rust**, **Java**
