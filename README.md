@@ -24,7 +24,7 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 > If it runs in a terminal, I probably use it. If it breaks, I fix it.
 
 ### 💻 Languages & Runtimes
-- **JavaScript / TypeScript**, **Python**, **Rust**, **Java**
+- **JavaScript / TypeScript**, **Python**, **Java**
 - **Node.js**, **Bun**, **Deno** (testing waters 🌊)
 
 ### 🔙 Backend
@@ -55,7 +55,6 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 
 - Building blazing fast fullstack apps using **Bun + Next.js**
 - Creating AI-powered web tools using **FastAPI + Python**
-- Experimenting with **Rust backends** and CLI tooling
 - Exploring **Web3 protocols** and decentralized systems
 - My GitHub username’s AvinashK47 — because my code... shoots bugs. 💥
 
