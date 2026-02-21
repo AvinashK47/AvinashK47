@@ -87,6 +87,8 @@ From compiling my own Linux kernel to integrating multimodal AI with fullstack a
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Arch+Linux+is+my+daily+driver+%F0%9F%90%A7;Breaking+things+to+learn+them+better+%F0%9F%92%80;AI+models+meet+web+apps+here+%F0%9F%A4%96;Next.js+%2B+Bun+%2B+FastAPI+combo+%F0%9F%9A%80;Building+%7C+Tinkering+%7C+Learning+Nonstop" alt="Typing SVG" />
 </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="avinashkushwaha47" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avinashkushwaha47?trk=profile-badge">Avinash Kushwaha</a></div>
+              
 
 ---
 
