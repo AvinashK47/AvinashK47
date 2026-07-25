@@ -1,94 +1,95 @@
-<h1 align="center">Hey, I'm Avinash 👋</h1>
+<h1 align="center">Hi, I'm Avinash 👋</h1>
+<h3 align="center">I write backend code, break Linux installs, and occasionally sleep</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Dev Coding">
+  <i>B.Tech CSE (AI & ML) @ VIT Bhopal · Building things people didn't ask for, then documenting them like they did</i>
 </p>
 
 <p align="center">
-  <b>Backend Wizard 🧙‍♂️ | Linux Overlord 🐧 | AI Explorer 🤖 | Fullstack Hacker 💻</b><br>
-  <i>Living on the bleeding edge for 4+ years with Arch and Gentoo.</i>
+  <a href="https://avinashk47.me"><img src="https://img.shields.io/badge/Portfolio-avinashk47.me-black?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/avinashkushwaha47/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://github.com/AvinashK47"><img src="https://img.shields.io/github/followers/AvinashK47?label=Follow&style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-## 🔧 About Me
+## 🧑‍💻 About Me
 
-I'm a developer who doesn't just code — I **optimize**, **self-host**, **automate**, and sometimes… break things (intentionally, of course 😅).
+I'm a backend-leaning fullstack developer who has spent the last few years convincing computers to do things they were clearly not designed to do. I optimize things nobody profiled, automate things nobody asked to skip, and self-host things a $5 SaaS plan would've handled fine — because paying for infrastructure is for people who don't own a spare VPS and several regrets.
 
-From compiling my own Linux kernel to integrating multimodal AI with fullstack apps — I love working with tech that's fast, efficient, and fun to debug at 2 AM 🌙.
-
----
-
-## ⚙️ Tech Stack (aka my toolbox)
-
-> If it runs in a terminal, I probably use it. If it breaks, I fix it.
-
-### 💻 Languages & Runtimes
-- **JavaScript / TypeScript**, **Python**, **Java**
-- **Node.js**, **Bun**, **Deno** (testing waters 🌊)
-
-### 🔙 Backend
-- **Express**, **FastAPI**, **Flask**
-- **MongoDB**, **PostgreSQL**, **Prisma**, **Mongoose**
-- **API development**, **Auth**, **Websockets**, **Bun-native server setup**
-
-### 🖼️ AI + Multimodal Integration
-- **Stable Diffusion**, **DALL-E**, **Gemini API**
-- **Prompt Engineering** & AI model routing
-- **Image Tools**: `Pillow`, `OpenCV`
-- Speech-to-text + text-to-speech + prompt pipelines
-
-### 🎨 Frontend
-- **React.js**, **Next.js (App Router)**, **Vite**
-- **Tailwind CSS v4** — styling made ✨divine✨
-- SSR, dynamic routing, and custom hooks
-
-### 🐧 Linux & DevOps (FLEX MODE 🔥)
-- 4 years of living with **Arch Linux** (btw 😉)
-- **Gentoo Linux** power user — compiled my own kernel like a boss
-- **Zsh**, `neovim`, `tmux`, `htop`, `ranger`, shell scripts galore
-- **Docker**, **Kubernetes** (learning), **GitHub Actions**
+Currently studying AI & ML formally, while my actual day-to-day is queues, sandboxes, and yelling at Docker. Balance.
 
 ---
 
-## 🛠 Current Dev Focus
+## 🚩 Flagship Project: Exec-D
 
-- Building blazing fast fullstack apps using **Bun + Next.js**
-- Creating AI-powered web tools using **FastAPI + Python**
-- Exploring **Web3 protocols** and decentralized systems
-- My GitHub username’s AvinashK47 — because my code... shoots bugs. 💥
+**A Codeforces-style online judge, built from scratch because apparently "just use an existing judge" was too easy.**
+
+This is the one I'll actually defend in an interview. Full Turborepo monorepo, real distributed-systems problems, real 2 AM debugging sessions:
+
+- **Next.js** frontend talking to an **Express** API, which writes submissions to **Postgres (Prisma + Neon)** and enqueues jobs onto **Redis via BullMQ**
+- A **worker process** claims jobs, spins up **Docker containers** to compile and run untrusted user code against test cases — network isolated, resource-capped, no funny business
+- Verdicts flow back through the pipeline: `PENDING → RUNNING → ACCEPTED / WRONG_ANSWER / TLE / RUNTIME_ERROR / COMPILATION_ERROR` — basically a tiny bureaucracy for your code's failures
+- Deployed on an **Oracle ARM64 VM** via **GitHub Actions + PM2**, because I like my deployments the way I like my sleep schedule: automated, so I don't have to think about it
+
+Also survived a personal gauntlet of monorepo hell: Prisma custom output paths that didn't resolve, Turbo caching env vars into oblivion, a missing `dist/` folder, `tsx` ghosting me in production, and a `JWT_SECRET` that GitHub Actions simply forgot existed. Character-building, allegedly.
+
+**Still in progress**, because real projects don't ship "done" — they ship "good enough to demo, terrifying enough to keep improving": per-testcase result storage, one-container-per-submission execution, an actual code editor instead of a glorified textarea, and security hardening beyond "please don't hack this, I'm one person."
 
 ---
 
-## 🤓 Fun Dev Facts
+## 🛠️ Other Projects (Send Help)
 
-- Been using FOSS since high school. My motto: “If it’s not open-source, is it even real?”
-- I break Arch on weekends just to fix it again (therapy 🧘).
-- Coffee ☕ + `nvim` + `tmux` = Ultimate productivity ritual.
-- Built AI agents with Gemini + Stable Diffusion + FastAPI — local-first and snappy.
+**Offline-First AI Voice Assistant** — A privacy-first PWA that runs a WASM-powered Whisper model client-side, because sending someone's voice to a random API felt like a design flaw, not a feature. Web Workers keep the UI thread responsive while the model does the heavy lifting; Next.js API routes keep the LLM keys away from anyone with DevTools open.
+
+**Real-Time Collaborative Whiteboard** — A custom WebSocket server broadcasting drawing events to a canvas rendering engine, because Figma clones are apparently a rite of passage now.
+
+**ShellShockedJS** — A POSIX-compliant shell, written in Node.js, via the CodeCrafters "Build Your Own Shell" challenge. Custom parser, built-ins, process execution, the works. Yes, I wrote a shell in the language most known for `npm install`ing half the internet. No, I don't see the irony.
 
 ---
 
-## 🤝 Connect With Me
+## ⚙️ Tech Stack
+
+**Languages:** JavaScript/TypeScript, Python, Java, C++
+
+**Backend & Data:** Node.js, Express, FastAPI, PostgreSQL, MongoDB, MySQL, Redis, Prisma, BullMQ, WebSockets
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Infra & Tooling:** Docker, AWS (EC2), GitHub Actions, Vercel, Linux, Git
+
+**AI-assisted dev:** Claude Code, Gemini CLI — yes, I use AI tools to build things, and no, that's not a personality flaw, that's called using your tools
+
+---
+
+## 🐧 Linux, Or: How I Learned to Stop Worrying and Love the Chroot
+
+Four years of daily-driving **Arch Linux**, with a stint in **Gentoo** compiling my own kernel because apparently pre-built binaries were too mainstream for me.
+
+Most recent flex: recovered a fully kernel-panicked Arch install — busted `initramfs` after an interrupted `pacman` transaction — via chroot, a `mkinitcpio` rebuild, and reinstalling DKMS nvidia modules from a live USB. Nothing was backed up. Everything was fine. This is not a recommendation, it's a confession.
+
+---
+
+## 📚 Currently Grinding
+
+- Working through **DSA** with a self-built, structured curriculum (skipped arrays and sorting — some fundamentals just aren't for me)
+- Competitive programming on **CodeChef**, and ranked **3135 (Global)** in **TCS CodeVita 2025** — not top of the leaderboard, but comfortably ahead of everyone who didn't show up
+- Certified by IBM in **Python for Data Science** and **React**, which mostly proves I can follow a syllabus when properly incentivized
+
+---
+
+## 🤝 Let's Connect
 
 <p align="left">
+  <a href="mailto:avinash.kushwaha1501@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <a href="https://www.linkedin.com/in/avinashkushwaha47/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/AvinashK47">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers">
+  <a href="https://avinashk47.me">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
----
-
-## 🐍 Bonus Vibes
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Arch+Linux+is+my+daily+driver+%F0%9F%90%A7;Breaking+things+to+learn+them+better+%F0%9F%92%80;AI+models+meet+web+apps+here+%F0%9F%A4%96;Next.js+%2B+Bun+%2B+FastAPI+combo+%F0%9F%9A%80;Building+%7C+Tinkering+%7C+Learning+Nonstop" alt="Typing SVG" />
-</p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="avinashkushwaha47" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/avinashkushwaha47?trk=profile-badge">Avinash Kushwaha</a></div>
-              
-
----
-
+<p align="center"><i>If it's broken, I probably broke it myself first, on purpose, to see how it works.</i></p>
